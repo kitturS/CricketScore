@@ -1,2 +1,2 @@
-# CricketScore 
+# CrickerRating
 Calculates ratings of various players.
