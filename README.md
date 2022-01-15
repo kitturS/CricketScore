@@ -1,2 +1,2 @@
-# CrickerRating
-Calculates ratings of various players.
+# CrickerPoints
+Calculates points scored by various players.
